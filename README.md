@@ -18,8 +18,8 @@ This repository contains the RNA-seq analysis code for the paper:
 
 | Analysis | Authors | Panels | Code |
 |---|---|---|---|
-| Mouse bulk RNA-seq: Ifitm3-KO x 5xFAD interaction model and gene set enrichment | L. Liu, K. Dey, C. Leslie (MSKCC) | Fig. 2h-k; Extended Data Fig. 2g | `scripts/01`-`02`, `05` |
-| Human microglia (ROSMAP snRNA-seq): IFITM3+ vs IFITM3- gene program meta-analysis | L. Liu, K. Dey, C. Leslie | Fig. 5e | `scripts/00`, `03`-`05` |
+| Mouse bulk RNA-seq: Ifitm3-KO x 5xFAD interaction model and gene set enrichment | L. Liu (MSKCC) | Fig. 2h-k; Extended Data Fig. 2g | `scripts/01`-`02`, `05` |
+| Human microglia (ROSMAP snRNA-seq): IFITM3+ vs IFITM3- gene program meta-analysis | L. Liu | Fig. 5e | `scripts/00`, `03`-`05` |
 | Mouse snRNA-seq: clustering, annotation, MAST differential expression, CellChat | T. Jain | Fig. 3a-d; Fig. 4a-i; Extended Data Figs. 3-4 | `scripts/snRNA/` |
 
 Every script names its author in its header. Questions about an analysis can go to its

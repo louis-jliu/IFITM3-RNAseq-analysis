@@ -1,7 +1,7 @@
 # 02_bulk_deseq2_fgsea.R
 #
-# Author : Jinrui (Louis) Liu, with Kushal Dey and Christina Leslie (Computational and Systems
-#          Biology Program, MSKCC). Contact: liuj11@mskcc.org
+# Author : Jinrui (Louis) Liu (Computational and Systems Biology Program, MSKCC).
+#          Contact: liuj11@mskcc.org
 #
 # Differential expression with an Ifitm3-KO x 5xFAD interaction model (DESeq2),
 # followed by gene set enrichment analysis (fgsea) for each contrast.

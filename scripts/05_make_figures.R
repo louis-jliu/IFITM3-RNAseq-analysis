@@ -1,7 +1,7 @@
 # 05_make_figures.R
 #
-# Author : Jinrui (Louis) Liu, with Kushal Dey and Christina Leslie (Computational and Systems
-#          Biology Program, MSKCC). Contact: liuj11@mskcc.org
+# Author : Jinrui (Louis) Liu (Computational and Systems Biology Program, MSKCC).
+#          Contact: liuj11@mskcc.org
 #
 # Recreates the submitted panels: Fig. 2h, 2i, 2j, 2k, Extended Data Fig. 2g and Fig. 5e.
 # This is figures.R from the submission with file paths made relative to the repository

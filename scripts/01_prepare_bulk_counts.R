@@ -1,7 +1,7 @@
 # 01_prepare_bulk_counts.R
 #
-# Author : Jinrui (Louis) Liu, with Kushal Dey and Christina Leslie (Computational and Systems
-#          Biology Program, MSKCC). Contact: liuj11@mskcc.org
+# Author : Jinrui (Louis) Liu (Computational and Systems Biology Program, MSKCC).
+#          Contact: liuj11@mskcc.org
 #
 # Prepare the mouse prefrontal cortex (PFC) bulk RNA-seq count matrix for DESeq2.
 # 15 samples: WT (n = 4), Ifitm3 KO (n = 4), 5xFAD (n = 4), 5xFAD;Ifitm3 KO (n = 3).
