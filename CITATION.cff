@@ -1,6 +1,6 @@
 cff-version: 1.2.0
 message: "If you use this code or data, please cite the article below and this software release."
-title: "IFITM3-bulk-analysis: analysis code for 'The innate immunity protein IFITM3 modulates microglial states in Alzheimer's disease'"
+title: "IFITM3-RNAseq-analysis: RNA-seq analysis code for 'The innate immunity protein IFITM3 modulates microglial states in Alzheimer's disease'"
 type: software
 authors:
   - family-names: Liu
@@ -8,29 +8,35 @@ authors:
     alias: Louis Liu
     orcid: "https://orcid.org/0000-0003-0778-4701"
     affiliation: "Computational and Systems Biology Program, Memorial Sloan Kettering Cancer Center"
-version: 1.0.0
-date-released: "2026-10-06"
+  - family-names: Jain
+    given-names: Tanya
+    affiliation: "Memorial Sloan Kettering Cancer Center"
+version: 2.0.0
+date-released: "2026-11-03"
 license: MIT
-repository-code: "https://github.com/louis-jliu/IFITM3-bulk-analysis"
+repository-code: "https://github.com/louis-jliu/IFITM3-RNAseq-analysis"
+doi: 10.5281/zenodo.23196949
 abstract: >-
   Code and data for the bulk RNA-seq interaction analysis (DESeq2, Ifitm3 knockout x 5xFAD),
   gene set enrichment analysis (fgsea) and human microglial gene program meta-analysis
-  (ROSMAP snRNA-seq) in the Nature Aging manuscript "The innate immunity protein IFITM3
-  modulates microglial states in Alzheimer's disease". Reproduces Fig. 2h-k,
-  Extended Data Fig. 2g and Fig. 5e.
+  (ROSMAP snRNA-seq), and the mouse single-nucleus RNA-seq analysis (clustering, MAST
+  differential expression, CellChat) in the Nature Aging manuscript "The innate immunity protein IFITM3
+  modulates microglial states in Alzheimer's disease". Covers Fig. 2h-k, 3a-d,
+  4a-i, 5e and Extended Data Figs. 2g, 3 and 4.
 keywords:
   - Alzheimer's disease
   - IFITM3
   - microglia
   - 5xFAD
   - RNA-seq
+  - snRNA-seq
   - DESeq2
   - GSEA
 preferred-citation:
   type: article
   title: "The innate immunity protein IFITM3 modulates microglial states in Alzheimer's disease"
   journal: "Nature Aging"
-  status: submitted
+  status: in-press
   year: 2026
   authors:
     - {family-names: Jain, given-names: Tanya}

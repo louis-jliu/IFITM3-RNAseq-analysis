@@ -1,5 +1,8 @@
 # 04_microglia_program_meta_analysis.R
 #
+# Author : Jinrui (Louis) Liu, with Kushal Dey and Christina Leslie (Computational and Systems
+#          Biology Program, MSKCC). Contact: liuj11@mskcc.org
+#
 # Human microglia (ROSMAP snRNA-seq, Mathys et al. 2019): compare IFITM3+ vs IFITM3- microglia
 # for curated microglial gene programs, separately in each pathology stage (Fig. 5e).
 #

@@ -1,5 +1,8 @@
 """00_build_gene_program_table.py
 
+Author : Jinrui (Louis) Liu, with Kushal Dey and Christina Leslie (Computational and Systems
+         Biology Program, MSKCC). Contact: liuj11@mskcc.org
+
 Build data/gene_programs/microglia_programs_Gan2024.tsv, the microglial gene programs used
 for Fig. 5e, from Table S1 ("Reference gene sets" sheet) of Gan et al., Cancer Cell 42,
 1693-1712 (2024), doi:10.1016/j.ccell.2024.08.015 (supplementary file mmc2.xlsx).

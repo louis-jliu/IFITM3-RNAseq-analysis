@@ -1,5 +1,8 @@
 """03_extract_rosmap_microglia.py
 
+Author : Jinrui (Louis) Liu, with Kushal Dey and Christina Leslie (Computational and Systems
+         Biology Program, MSKCC). Contact: liuj11@mskcc.org
+
 Extract microglia from the ROSMAP prefrontal cortex single-nucleus RNA-seq data
 (Mathys et al., Nature 2019; AD Knowledge Portal, Synapse syn18485175) for the
 IFITM3+ vs IFITM3- microglial program meta-analysis (Fig. 5d,e).
